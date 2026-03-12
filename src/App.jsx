@@ -8,7 +8,7 @@ import Generate from './pages/Generate';
 import WebsiteEditor from './pages/WebsiteEditor';
 import LiveSite from './pages/LiveSite';
 import Pricing from './pages/Pricing';
-export const serverUrl = "https://webgen-e51x.onrender.com"
+export const serverUrl = 'https://webgen-e51x.onrender.com'
 
 function App() {
   useGetCurrentUser(); // Persistant Authentication
